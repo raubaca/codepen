@@ -1,0 +1,15 @@
+
+/* Reset */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+}
+
+/* Centered content */
+body {
+  display: grid;
+  place-content: center;
+  min-height: 100vh;
+}

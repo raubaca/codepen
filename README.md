@@ -1,2 +1,3 @@
-# codepen
-Repo for CodePen files
+# CodePen
+
+Repo for CodePen files like imgs, stylesheets, etc.
